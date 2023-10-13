@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spotless2 - Florin Tudor
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning PHP, HTML, CSS, JavaScript
+- 🌱 I’m currently learning Mobile Dev (Android) and working as a Full Stack Engineer (Java\Spring + TypeScript\Angular)
 - 📫 How to reach me: florintudor.2k@gmail.com
 
 <!---
